@@ -1,0 +1,30 @@
+{
+  "name": "atm-ale",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/clear": "^0.1.4",
+    "asciichart": "^1.5.25",
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "clear": "^0.1.0",
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/asciichart": "^1.5.8",
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.0"
+  }
+}
