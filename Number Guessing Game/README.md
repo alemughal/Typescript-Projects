@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 // Start the Game
 npx ale-numguessing;
-# Number Guessing Game
+# Todo App
 
 AleNumguessing is a command-line number guessing game built with Node.js,Chalk, ChalkAnimation, boxen and Inquirer. It allows users to Guess the number.
 
