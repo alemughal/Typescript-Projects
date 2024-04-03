@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import axios from "axios";
 import inquirer from 'inquirer';
 import chalk from "chalk";

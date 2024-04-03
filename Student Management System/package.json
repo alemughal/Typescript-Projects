@@ -1,7 +1,7 @@
 {
-  "name": "currency-converter-ali",
+  "name": "student-lms",
   "version": "1.0.1",
-  "description": "Interactive Currency Converter Console App",
+  "description": "Word counter node js applictaion using inquirer boxen chalk ",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -9,16 +9,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "currency",
-    "converter",
     "node",
     "js",
+    "word",
+    "counter",
     "typescript"
   ],
   "author": "Ali Mughal",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.7",
     "boxen": "^7.1.1",
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
@@ -28,6 +27,6 @@
     "@types/chalk": "^2.2.0",
     "@types/chalk-animation": "^1.6.3",
     "@types/inquirer": "^9.0.7",
-    "@types/node": "^20.11.10"
+    "@types/node": "^20.11.13"
   }
 }

@@ -1,33 +1,26 @@
 {
-  "name": "currency-converter-ali",
-  "version": "1.0.1",
-  "description": "Interactive Currency Converter Console App",
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "Quiz App with Node Js and Typescript",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "currency",
-    "converter",
-    "node",
-    "js",
+    "quiz",
+    "nodejs",
     "typescript"
   ],
   "author": "Ali Mughal",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.7",
-    "boxen": "^7.1.1",
     "chalk": "^5.3.0",
-    "chalk-animation": "^2.0.3",
     "inquirer": "^9.2.13"
   },
   "devDependencies": {
     "@types/chalk": "^2.2.0",
-    "@types/chalk-animation": "^1.6.3",
     "@types/inquirer": "^9.0.7",
-    "@types/node": "^20.11.10"
+    "@types/node": "^20.11.16"
   }
 }
